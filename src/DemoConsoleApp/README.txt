@@ -1,0 +1,1 @@
+A small demo of how to use Autofac or Mucrosoft Deopendency Injection for a safe Http Client injection.

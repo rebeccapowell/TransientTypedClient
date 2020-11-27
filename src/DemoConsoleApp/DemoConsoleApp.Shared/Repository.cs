@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace DemoConsoleApp
+namespace DemoConsoleApp.Shared
 {
     public class Repository
     {

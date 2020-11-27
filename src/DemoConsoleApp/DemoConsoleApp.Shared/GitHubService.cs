@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace DemoConsoleApp
+namespace DemoConsoleApp.Shared
 {
     public class GitHubService : IGitHubService
     {
